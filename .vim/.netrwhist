@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/paolo/prj/abc/vendor/plugins/active_merchant/lib/active_merchant/billing/integrations'
+let g:netrw_dirhist_2='/Users/paolo/prj/abc/app/views/account'
+let g:netrw_dirhist_3='/Users/paolo/prj/scrapetheshortcode'
+let g:netrw_dirhist_4='/Users/paolo/prj/scrapetheshortcode/lib'
+let g:netrw_dirhist_5='/Users/paolo/prj/scrapetheshortcode/lib/tasks'
+let g:netrw_dirhist_6='/Users/paolo/prj/scrapetheshortcode/app/models'
